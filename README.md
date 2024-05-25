@@ -25,9 +25,10 @@ I have made the following changes to the original code:
 
 1. **Dataset**: The dataset (`heart.csv`) used in this project contains 303 instances and 14 columns, where each row corresponds to a patient. Columns include clinical features and the target variable, indicating the presence of heart disease.
   
-2. **Requirements**: Ensure you have Python installed with necessary libraries such as pandas, numpy, scikit-learn, seaborn, matplotlib, TensorFlow, and xgboost. These can be installed using `pip install -r requirements.txt`.
+2. **Requirements**: Ensure you have Python installed with necessary libraries such as pandas, numpy, scikit-learn, seaborn, matplotlib, TensorFlow, and xgboost. These can be installed using `pip install -numpy pandas matplotlib seaborn scikit-learn xgboost tensorflow
+`.
 
-3. **Execution**: Run the main script (`heart_disease_prediction.py`) to load the dataset, visualize the data, train machine learning models, and evaluate their performance. The script concludes with a summary of accuracy scores for each model.
+3. **Execution**: Run the main script (`HDP.py`) to load the dataset, visualize the data, train machine learning models, and evaluate their performance. The script concludes with a summary of accuracy scores for each model and Chart showing different models.
 
 ### Conclusion
 
