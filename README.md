@@ -28,7 +28,7 @@ I have made the following changes to the original code:
 2. **Requirements**: Ensure you have Python installed with necessary libraries such as pandas, numpy, scikit-learn, seaborn, matplotlib, TensorFlow, and xgboost. These can be installed using `pip install -numpy pandas matplotlib seaborn scikit-learn xgboost tensorflow
 `.
 
-3. **Execution**: Run the main script (`HDP.py`) to load the dataset, visualize the data, train machine learning models, and evaluate their performance. The script concludes with a summary of accuracy scores for each model and Chart showing different models.
+3. **Execution**: Run the main script (`HDP.py`) to load the dataset, visualize the data, train machine learning models, and evaluate their performance. The script concludes with a summary of accuracy scores for each model and visual chart showing different models accuracy.
 
 ### Conclusion
 
